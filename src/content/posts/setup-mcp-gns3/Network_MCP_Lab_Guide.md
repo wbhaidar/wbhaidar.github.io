@@ -320,16 +320,16 @@ Each LLM request → invokes a tool → gets structured data → returns result.
 
 ## 🚀 Final Thoughts
 
-This setup isnt that a cool experiment, but a into the **next phase of network automation** and how we will be interacting with network environments and devices.
+This setup isn't just a cool experiment, but a glimpse into the **next phase of network automation** and how we will soon be interacting with network environments and devices.
 
 It is a fundamental shift from traditional time consuming approaches such as box by box or writing custom scripts to extract and normalise the data.
+
+What once required manual time-consuming interaction now takes a **single plain-English prompt**. This is fundamentally more flexible and scalable.
 
 With MCP and LLMs, we will be able to:
 - **Query your network in natural language**
 - Let the **model interpret intent and coordinate tasks and actions**
 - Get **structured output aligning to your requirement**
-
-What once required manual time-consuming interaction now takes a **single plain-English prompt**. This is fundamentally more flexible and scalable.
 
 You're no longer tied to brittle scripts or static automation. You're building an interface where **your LLM becomes an intelligent assistant**, capable of discovering, analysing, and reasoning about your network environment in real time.
 
