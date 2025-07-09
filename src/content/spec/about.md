@@ -1,9 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Hi, I'm Wal - a network engineer at hear with over two decades of experience desging, building, and testing complex network systems. These days, i find myself standing at the crossroads of networking, automation, and AI.
 
-::github{repo="saicaca/fuwari"}
+This blog, Packets & Prompts, is where i share that journey - from applying software based to the traditiona, to experimenting with natural language interface for network control and testing.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+I revel in the elegance of simple yet highly effective solutions to problem spaces. To me, good engineering is about clarity, effiency and purpose.
+

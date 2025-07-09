@@ -1,0 +1,7 @@
+
+import __ASTRO_IMAGE_IMPORT_2f0DMU from "GNS3_top1.png?astroContentImageFlag=&importer=src%2Fcontent%2Fposts%2Fsetup-mcp-gns3%2FNetwork_MCP_Lab_Guide.md";
+import __ASTRO_IMAGE_IMPORT_8TUGj from "blog-lm_studio-select-model.png?astroContentImageFlag=&importer=src%2Fcontent%2Fposts%2Fsetup-mcp-gns3%2FNetwork_MCP_Lab_Guide.md";
+import __ASTRO_IMAGE_IMPORT_ZQJART from "blog-lm_studio-edit-mcpjson.png?astroContentImageFlag=&importer=src%2Fcontent%2Fposts%2Fsetup-mcp-gns3%2FNetwork_MCP_Lab_Guide.md";
+import __ASTRO_IMAGE_IMPORT_oKYwY from "blog-lm_studio-mcp-enabled.png?astroContentImageFlag=&importer=src%2Fcontent%2Fposts%2Fsetup-mcp-gns3%2FNetwork_MCP_Lab_Guide.md";
+export default new Map([["GNS3_top1.png?astroContentImageFlag=&importer=src%2Fcontent%2Fposts%2Fsetup-mcp-gns3%2FNetwork_MCP_Lab_Guide.md", __ASTRO_IMAGE_IMPORT_2f0DMU], ["blog-lm_studio-select-model.png?astroContentImageFlag=&importer=src%2Fcontent%2Fposts%2Fsetup-mcp-gns3%2FNetwork_MCP_Lab_Guide.md", __ASTRO_IMAGE_IMPORT_8TUGj], ["blog-lm_studio-edit-mcpjson.png?astroContentImageFlag=&importer=src%2Fcontent%2Fposts%2Fsetup-mcp-gns3%2FNetwork_MCP_Lab_Guide.md", __ASTRO_IMAGE_IMPORT_ZQJART], ["blog-lm_studio-mcp-enabled.png?astroContentImageFlag=&importer=src%2Fcontent%2Fposts%2Fsetup-mcp-gns3%2FNetwork_MCP_Lab_Guide.md", __ASTRO_IMAGE_IMPORT_oKYwY]]);
+		
